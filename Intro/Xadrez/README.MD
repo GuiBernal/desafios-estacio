@@ -1,12 +1,11 @@
 # Xadrez
 
-## Compilação e Execução v0: Movimentação das Peças
+## Compilação e Execução:
 
 ```bash
-gcc Intro/Xadrez/V0/xadrez.c -o Intro/Xadrez/V0/xadrez.exe
+gcc Intro/Xadrez/xadrez.c -o Intro/Xadrez/xadrez.exe
 ```
 
 ```bash
-./Intro/Xadrez/V0/xadrez.exe
+./Intro/Xadrez/xadrez.exe
 ```
-
