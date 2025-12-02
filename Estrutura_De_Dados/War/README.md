@@ -1,9 +1,4 @@
-```c
-gcc war.c -o war
-./war
-```
-
-# Batalha_Naval
+# War
 
 ## Compilação e Execução:
 
